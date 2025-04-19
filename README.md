@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deahauhem
 - 👀 I’m interested in full stack development and serverless computing.
-- 📫 I can be reached at @auheM on twitter.
+- 📫 I can be reached at @auhem.bsky.social on Bluesky.
 
 <!---
 deahauhem/deahauhem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
